@@ -1,15 +1,56 @@
 [{
-  "id": "2",
-  "idUser": "1",
-  "value": "700.99",
-  "paymentMethod": "3",
-  "status": "3"
+  "id": "6655de8946375257487a82fe",
+  "idUser": "6654ec22b63fb56f1d890484",
+  "value": "105.98",
+  "paymentMethod": "2",
+  "created": "2024-05-28T10:39:21.004111900",
+  "status": "1"
 },
 {
-  "id": "3",
-  "idUser": "2",
-  "value": "7800.99",
+  "id":"665623f046375257487a82ff",
+  "idUser": "6654ec22b63fb56f1d890484",
+  "value": "3.4",
+  "paymentMethod": "2",
+  "created": "2024-05-28T15:35:28.767660700",
+  "status": "1"
+},
+{
+  "id": "6656246646375257487a8300",
+  "idUser": "6654ec22b63fb56f1d890484",
+  "value": "11.52",
   "paymentMethod": "3",
-  "status": "3"
-
+  "created": "2024-05-28T15:37:26.142173200",
+  "status": "2"
+},
+{
+  "id": "6656296146375257487a8301",
+  "idUser": "6654ec22b63fb56f1d890484",
+  "value": "40.65",
+  "paymentMethod": "3",
+  "created": "2024-05-28T15:58:41.390498100",
+  "status": "2"
+},
+{
+  "id": "665629f646375257487a8302",
+  "idUser": "6654ec22b63fb56f1d890484",
+  "value": "9.6",
+  "paymentMethod": "3",
+  "created": "2024-05-28T16:01:10.063147200",
+  "status": "2"
+},
+{
+  "id": "66562b6046375257487a8303",
+  "idUser": "6654ec22b63fb56f1d890484",
+  "value": "19.99",
+  "paymentMethod": "3",
+  "created": "2024-05-28T16:07:12.106968700",
+  "status": "2"
+},
+{
+  "id":  "66562bb846375257487a8304",
+  "idUser": "6654ec22b63fb56f1d890484",
+  "value": "19.99",
+  "paymentMethod": "2",
+  "created": "2024-05-28T16:08:40.201781600",
+  "status": "1"
 }]
